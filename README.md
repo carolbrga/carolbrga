@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Carolina, a Full-Stack Web Developer with a bachelor in both Business Administration and Law.
+I'm Carolina, a Full-Stack Web Developer with bachelor's in both Business Administration and Law.
 
 A curious mind transitioning careers and exploring the world of code. 👩🏻‍💻
 
