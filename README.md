@@ -6,13 +6,13 @@ A curious mind transitioning careers and exploring the world of code. 👩🏻�
 
 Check out below some of the projects I had the most fun with throughout this journey!
 
-📫 Let's Connect:
+### 📫 Let's Connect:
 <div id="badges">
  <a href = "mailto:brgacarolina@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carolinabrga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
-Experienced in:
+### Experienced in:
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
